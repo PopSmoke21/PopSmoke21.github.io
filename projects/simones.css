@@ -46,7 +46,7 @@ p {
 
 /* create your own bowl (cyob) */
 #cyob {
-    background-image: url("images/AU.png");
+    background-image: url("images/cyobBG.png");
     display: grid;
     grid-template-rows: 10rem 10rem 35rem;
     grid-template-colums 80% 20%:
